@@ -3,7 +3,7 @@ package view;
 public class Application {
 
 	/**
-	 * Programme pour tester les commandes git009
+	 * Branch001
 	 * 
 	 * @param args
 	 */
