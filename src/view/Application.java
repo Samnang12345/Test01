@@ -2,7 +2,8 @@ package view;
 
 public class Application {
 
-	/*
+	/**
+	 * Programme pour tester github
 	 * 
 	 * @param args
 	 */
