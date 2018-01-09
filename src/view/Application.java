@@ -3,7 +3,7 @@ package view;
 public class Application {
 
 	/**
-	 * Master001
+	 * Master002
 	 * 
 	 * @param args
 	 */
